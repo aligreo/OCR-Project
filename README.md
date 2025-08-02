@@ -1,0 +1,2 @@
+# OCR-Project
+this is a intey level ocr project
